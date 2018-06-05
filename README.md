@@ -12,3 +12,10 @@
  f. Right Click on the Project >> go to Maven >> Update Project
  g. Go to src/test/java >> tests >> Right Click on TourBookingTest.java >> Run as TestNG Test
  
+## NOTE : Still Pending on this project <br/>
+    ### Reporting <br/>
+    ### ScreenCapture <br/>
+    ### Keyword Driven Approach <br/>
+    ### Config management 
+    ### Execution on Grid
+    
